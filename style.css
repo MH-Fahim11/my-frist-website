@@ -2,3 +2,19 @@
     color: brown;
     font-family: 'Times New Roman', Times, serif;
 }
+input:focus{
+    font-weight: 700;
+    color:rgb(163, 27, 27);
+    font-size: 20px;
+}
+li:first-child{
+    background-color: brown;
+}
+a:visited{
+    color: black;
+}
+h1::before{
+    content: "hello";
+    font-size: 4px;
+    background-color: blue;
+}
