@@ -16,5 +16,5 @@ a:visited{
 h1::before{
     content: "hello";
     font-size: 4px;
-    background-color: blue;
+    background-color: rgb(255, 0, 0);
 }
